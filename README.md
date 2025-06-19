@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Stephane Paul 👋
+
+**Full Stack Developer & DevOps Enthusiast**  
+MVP's to full blown products, love the grind.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** TypeScript, Python, Ruby
+- **DevOps:** CI/CD, Infrastructure as Code, Automation
+
+---
+
+### 🚀 About Me
+
+I'm a passionate builder who enjoys taking ideas from MVPs to robust, production-ready products. Whether it's crafting scalable backends, sleek frontends, or automating cloud infrastructure, I'm always up for the challenge—and I love the grind!
+
+---
 
 <!--
-**stephanelpaul/stephanelpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+✨ Want to connect? Add your social links here!
+- [LinkedIn]()
+- [Twitter]()
+- [Website]()
 -->
+
+<!--
+🌟 Want to feature projects? Add them here!
+- [Project Name](project-link): Brief description
+-->
+
+---
+
+![Stephane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephanelpaul&show_icons=true&theme=radical)
