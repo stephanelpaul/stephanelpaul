@@ -1,34 +1,42 @@
 # Hi, I'm Stephane Paul 👋
 
-**Full Stack Developer & DevOps Enthusiast**  
-MVP's to full blown products, love the grind.
+**Full Stack Developer • DevOps Tinkerer • Builder of Cool Stuff**  
+From scrappy MVPs to production-ready platforms — I live for the grind and the glow-up.
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages:** TypeScript, Python, PHP, Ruby
-- **DevOps:** CI/CD, Infrastructure as Code, Automation
+- **Languages I Use Daily:**  
+  TypeScript • Python • PHP • Ruby • Crystal
+
+- **Dev & Ops:**  
+  CI/CD • Infrastructure as Code • Automation • Monitoring • Scaling things that break (and fixing them before they do)
 
 ---
 
-### 🚀 About Me
+### 🚀 What I'm About
 
-I'm a passionate builder who enjoys taking ideas from MVPs to robust, production-ready products. Whether it's crafting scalable backends, sleek frontends, or automating cloud infrastructure, I'm always up for the challenge—and I love the grind!
+I'm a hands-on problem solver who thrives on turning ideas into working products.  
+Whether it’s:
+- architecting backend systems,
+- building interactive frontends,
+- or wiring up devops pipelines that ship code like clockwork...
+
+I’m all in.
+
+💡 Always learning.  
+💻 Always building.  
+☕ Probably on my 3rd coffee.
 
 ---
 
-<!--
-✨ Want to connect? Add your social links here!
-- [LinkedIn]()
-- [Twitter]()
-- [Website]()
--->
+### 📫 Let’s Connect
 
-<!--
-🌟 Want to feature projects? Add them here!
-- [Project Name](project-link): Brief description
--->
+<!-- Replace with your actual links -->
+- [Website](#)
+- [LinkedIn](#)
+- [Twitter](#)
 
 ---
 
