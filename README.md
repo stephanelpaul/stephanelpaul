@@ -7,7 +7,7 @@ MVP's to full blown products, love the grind.
 
 ### 🛠️ Tech Stack
 
-- **Languages:** TypeScript, Python, Ruby
+- **Languages:** TypeScript, Python, PHP, Ruby
 - **DevOps:** CI/CD, Infrastructure as Code, Automation
 
 ---
